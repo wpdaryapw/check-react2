@@ -1,0 +1,7 @@
+.container {
+    display: grid;
+    width: 650px;
+    grid-template-columns: 300px 300px;
+    gap: 50px;
+    justify-items: stretch;
+  }
